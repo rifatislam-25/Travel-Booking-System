@@ -129,7 +129,8 @@ USING (customer_id = auth.uid());
 
 ## 📊 ERD & RLS Policy Visualization
 
-![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png)
+![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png "Travel Booking System ERD + RLS Policy Graph")
+
 
 
 ---
