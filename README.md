@@ -131,21 +131,12 @@ USING (customer_id = auth.uid());
 
 ---
 
-## 🎯 Why This Project Matters
-
-* **Security-first design** with Supabase RLS.
-* **Scalable schema** suitable for real travel booking apps.
-* **Extensible** for agents, coupons, or multi-currency support.
-* **Professional case study** for database-driven applications.
-
----
-
 ## 📬 Connect
 
 👤 **Md Shafiqul Islam Rifat**
 
 * 🌐 [Portfolio](https://shafiqulislam.netlify.app/)
-* 💼 [LinkedIn](#)
+* 💼 [LinkedIn](https://www.linkedin.com/in/md-shafiqul-islam-rifat/)
 * 💻 [GitHub](#)
 
 ---
