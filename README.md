@@ -1,7 +1,6 @@
 # 🛫 Travel Booking System (Supabase + RLS Security)
 
-A **secure, full-stack travel booking platform** built with **Supabase (PostgreSQL + Auth + RLS)**.  
-This project demonstrates how to design a **normalized schema**, implement **Row Level Security (RLS)**, and enforce **role-based access control** while supporting real-world booking workflows.
+A **comprehensive travel booking database designed in PostgreSQL/Supabase, focusing on secure, normalized, and scalable data management. This project demonstrates expertise in data modeling, relational design, and Row-Level Security (RLS).
 
 ---
 
