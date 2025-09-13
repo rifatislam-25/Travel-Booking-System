@@ -67,7 +67,7 @@ The schema is normalized and connected as follows:
 📸 **Visualization:**
 ## 🎥 Database Travel Schema
 
-ffmpeg -i "database travel schema.mp4" -vf "fps=10,scale=800:-1:flags=lanczos" database_travel_schema.gif
+![Database Travel Schema](assets/images/database_travel_schema.gif)
 
 
 
