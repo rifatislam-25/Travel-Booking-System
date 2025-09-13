@@ -1,6 +1,6 @@
 # 🛫 Travel Booking System (Supabase + RLS Security)
 
-A **comprehensive travel booking database designed in PostgreSQL/Supabase, focusing on secure, normalized, and scalable data management. This project demonstrates expertise in data modeling, relational design, and Row-Level Security (RLS).
+A comprehensive travel booking database designed in PostgreSQL/Supabase, focusing on secure, normalized, and scalable data management. This project demonstrates expertise in data modeling, relational design, and Row-Level Security (RLS).
 
 ---
 
@@ -129,19 +129,6 @@ USING (customer_id = auth.uid());
 ![ERD + RLS Policy](https://github.com/rifatislam-25/Travel-Booking-System/blob/main/travel_booking_system_erd_rls.png?raw=true)
 
 
-
-
----
-
-
-## 📸 Screenshots
-
-* ERD Diagram
-* Policy Graph
-* Website screenshots (profile, booking, payment, review)
-
-*(Insert images here)*
-
 ---
 
 ## 🎯 Why This Project Matters
@@ -157,7 +144,7 @@ USING (customer_id = auth.uid());
 
 👤 **Md Shafiqul Islam Rifat**
 
-* 🌐 [Portfolio](#)
+* 🌐 [Portfolio](https://shafiqulislam.netlify.app/)
 * 💼 [LinkedIn](#)
 * 💻 [GitHub](#)
 
