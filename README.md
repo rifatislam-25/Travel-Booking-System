@@ -67,10 +67,7 @@ The schema is normalized and connected as follows:
 📸 **Visualization:**
 ## 🎥 Database Travel Schema
 
-![Database Travel Schema](assets/images/database_travel_schema.gif)
-
-
-
+![Database Schema](assets/images/schema_sql.png)
 
 ---
 
