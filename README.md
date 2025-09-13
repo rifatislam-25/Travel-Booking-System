@@ -123,8 +123,10 @@ USING (customer_id = auth.uid());
 * **Dashed lines** → RLS controlled access
 * **Dotted lines** → Admin unrestricted access
 
-### ERD + RLS Policy
+## 📊 ERD & RLS Policy Visualization
+
 ![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png)
+
 
 ---
 
