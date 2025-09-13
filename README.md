@@ -1,4 +1,4 @@
-# 🛫 Travel Booking System (Supabase + RLS Security)
+# 🛫 Travel Booking System – Database Design
 
 A comprehensive travel booking database designed in PostgreSQL/Supabase, focusing on secure, normalized, and scalable data management. This project demonstrates expertise in data modeling, relational design, and Row-Level Security (RLS).
 
