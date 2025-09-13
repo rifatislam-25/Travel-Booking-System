@@ -65,15 +65,8 @@ The schema is normalized and connected as follows:
 * `reviews → customers + trips`
 
 📸 **Visualization:**
-*(Insert your generated ERD image here)*
-
-```bash
-# Generate ERD in Google Colab using Graphviz
-from graphviz import Digraph
-dot = Digraph()
-# ... schema code ...
-dot.render("travel_booking_erd", format="png")
-```
+### ERD + RLS Policy
+![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png)
 
 ---
 
@@ -130,7 +123,8 @@ USING (customer_id = auth.uid());
 * **Dashed lines** → RLS controlled access
 * **Dotted lines** → Admin unrestricted access
 
-*(Insert your generated RLS policy graph here)*
+### ERD + RLS Policy
+![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png)
 
 ---
 
