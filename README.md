@@ -67,7 +67,9 @@ The schema is normalized and connected as follows:
 📸 **Visualization:**
 ## 🎥 Database Travel Schema
 
-[Watch the database schema video](https://github.com/rifatislam-25/Travel-Booking-System/blob/main/database%20travel%20schema.mp4)
+ffmpeg -i "database travel schema.mp4" -vf "fps=10,scale=800:-1:flags=lanczos" database_travel_schema.gif
+
+
 
 
 ---
