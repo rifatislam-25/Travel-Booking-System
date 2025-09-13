@@ -65,8 +65,10 @@ The schema is normalized and connected as follows:
 * `reviews → customers + trips`
 
 📸 **Visualization:**
-### ERD + RLS Policy
-![ERD + RLS Policy](assets/images/travel_booking_system_erd_rls.png)
+## 🎥 Database Travel Schema
+
+[Watch the database schema video](https://github.com/rifatislam-25/Travel-Booking-System/blob/main/database%20travel%20schema.mp4)
+
 
 ---
 
